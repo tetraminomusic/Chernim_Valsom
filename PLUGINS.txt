@@ -1,0 +1,55 @@
+ПЛАГИНЫ ПРОЕКТА — файл генерирует «Программа Узбека» при каждой отправке, руками не править
+==============================================================================
+Проект сохранён в FL Studio 21.2.3.4004
+Участник: пидор            Windows  FL 21.2.3.4004
+
+[✓] VST3  Analog Lab V — Arturia
+        пидор:           есть
+[✓] VST3  Cramit — Sixth Sample
+        пидор:           есть v1.2.3.0
+[✓] VST3  FabFilter Pro-C 2 — FabFilter
+        пидор:           есть v2.2.0.45
+[✓] VST3  FabFilter Pro-L 2 — FabFilter
+        пидор:           есть v2.2.4.40
+[✓] VST3  FabFilter Pro-MB — FabFilter
+        пидор:           есть v1.3.1.27
+[✓] VST3  FabFilter Pro-Q 4 — FabFilter
+        пидор:           есть v4.0.1.6
+[✓] VST3  FabFilter Saturn 2 — FabFilter
+        пидор:           есть v2.1.1.13
+[✓] VST3  Fresh Air — Slate Digital
+        пидор:           есть v0.0.0.0
+[✓] VST3  Jup-8 V4 — Arturia
+        пидор:           есть
+[✓] VST3  Piano V3 — Arturia
+        пидор:           есть
+[✓] VST3  Pigments — Arturia
+        пидор:           есть
+[✓] VST3  RC-20 Retro Color — XLN Audio
+        пидор:           есть v1.3.0.0
+[✓] VST3  ShaperBox 3 — Cableguys
+        пидор:           есть v3.5.1.0
+[✓] VST3  soothe2_x64 — oeksound
+        пидор:           есть v1.1.2.0
+[✓] VST3  TR-808 — Roland Cloud
+        пидор:           есть
+[✓] VST3  Trackspacer25 — Wavesfactory
+        пидор:           есть v2.5.10.0
+[✓] VST3  ValhallaDelay — Valhalla DSP, LLC
+        пидор:           есть v2.5.0.0
+[✓] VST3  ValhallaRoom — Valhalla DSP, LLC
+        пидор:           есть v2.0.5.0
+[✓] VST3  ValhallaShimmer — Valhalla DSP, LLC
+        пидор:           есть v1.2.2.0
+[✓] VST3  ValhallaVintageVerb — Valhalla DSP, LLC
+        пидор:           есть v4.0.5.0
+[✓] VST2  FabFilter Pro-Q 4 — FabFilter
+        пидор:           есть v4.0.1.6
+[✓] FL    Fruity Flanger
+        пидор:           есть
+[✓] FL    Fruity Limiter
+        пидор:           есть
+[✓] FL    Fruity Parametric EQ 2
+        пидор:           есть
+[✓] FL    Fruity Stereo Enhancer
+        пидор:           есть

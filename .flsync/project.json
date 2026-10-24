@@ -1,0 +1,620 @@
+{
+  "generated": "",
+  "flVersion": "21.2.3.4004",
+  "plugins": [
+    {
+      "name": "Analog Lab V",
+      "internal": "Fruity Wrapper",
+      "vendor": "Arturia",
+      "format": "VST3",
+      "where": "channel"
+    },
+    {
+      "name": "Cramit",
+      "internal": "Fruity Wrapper",
+      "vendor": "Sixth Sample",
+      "format": "VST3",
+      "where": "mixer"
+    },
+    {
+      "name": "FabFilter Pro-C 2",
+      "internal": "Fruity Wrapper",
+      "vendor": "FabFilter",
+      "format": "VST3",
+      "where": "mixer"
+    },
+    {
+      "name": "FabFilter Pro-L 2",
+      "internal": "Fruity Wrapper",
+      "vendor": "FabFilter",
+      "format": "VST3",
+      "where": "mixer"
+    },
+    {
+      "name": "FabFilter Pro-MB",
+      "internal": "Fruity Wrapper",
+      "vendor": "FabFilter",
+      "format": "VST3",
+      "where": "mixer"
+    },
+    {
+      "name": "FabFilter Pro-Q 4",
+      "internal": "Fruity Wrapper",
+      "vendor": "FabFilter",
+      "format": "VST3",
+      "where": "mixer"
+    },
+    {
+      "name": "FabFilter Saturn 2",
+      "internal": "Fruity Wrapper",
+      "vendor": "FabFilter",
+      "format": "VST3",
+      "where": "mixer"
+    },
+    {
+      "name": "Fresh Air",
+      "internal": "Fruity Wrapper",
+      "vendor": "Slate Digital",
+      "format": "VST3",
+      "where": "mixer"
+    },
+    {
+      "name": "Jup-8 V4",
+      "internal": "Fruity Wrapper",
+      "vendor": "Arturia",
+      "format": "VST3",
+      "where": "channel"
+    },
+    {
+      "name": "Piano V3",
+      "internal": "Fruity Wrapper",
+      "vendor": "Arturia",
+      "format": "VST3",
+      "where": "channel"
+    },
+    {
+      "name": "Pigments",
+      "internal": "Fruity Wrapper",
+      "vendor": "Arturia",
+      "format": "VST3",
+      "where": "channel"
+    },
+    {
+      "name": "RC-20 Retro Color",
+      "internal": "Fruity Wrapper",
+      "vendor": "XLN Audio",
+      "format": "VST3",
+      "where": "mixer"
+    },
+    {
+      "name": "ShaperBox 3",
+      "internal": "Fruity Wrapper",
+      "vendor": "Cableguys",
+      "format": "VST3",
+      "where": "mixer"
+    },
+    {
+      "name": "soothe2_x64",
+      "internal": "Fruity Wrapper",
+      "vendor": "oeksound",
+      "format": "VST3",
+      "where": "mixer"
+    },
+    {
+      "name": "TR-808",
+      "internal": "Fruity Wrapper",
+      "vendor": "Roland Cloud",
+      "format": "VST3",
+      "where": "channel"
+    },
+    {
+      "name": "Trackspacer25",
+      "internal": "Fruity Wrapper",
+      "vendor": "Wavesfactory",
+      "format": "VST3",
+      "where": "mixer"
+    },
+    {
+      "name": "ValhallaDelay",
+      "internal": "Fruity Wrapper",
+      "vendor": "Valhalla DSP, LLC",
+      "format": "VST3",
+      "where": "mixer"
+    },
+    {
+      "name": "ValhallaRoom",
+      "internal": "Fruity Wrapper",
+      "vendor": "Valhalla DSP, LLC",
+      "format": "VST3",
+      "where": "mixer"
+    },
+    {
+      "name": "ValhallaShimmer",
+      "internal": "Fruity Wrapper",
+      "vendor": "Valhalla DSP, LLC",
+      "format": "VST3",
+      "where": "mixer"
+    },
+    {
+      "name": "ValhallaVintageVerb",
+      "internal": "Fruity Wrapper",
+      "vendor": "Valhalla DSP, LLC",
+      "format": "VST3",
+      "where": "mixer"
+    },
+    {
+      "name": "FabFilter Pro-Q 4",
+      "internal": "Fruity Wrapper",
+      "vendor": "FabFilter",
+      "format": "VST2",
+      "where": "mixer"
+    },
+    {
+      "name": "Fruity Flanger",
+      "internal": "Fruity Flanger",
+      "format": "FL",
+      "where": "mixer"
+    },
+    {
+      "name": "Fruity Limiter",
+      "internal": "Fruity Limiter",
+      "format": "FL",
+      "where": "mixer"
+    },
+    {
+      "name": "Fruity Parametric EQ 2",
+      "internal": "Fruity Parametric EQ 2",
+      "format": "FL",
+      "where": "mixer"
+    },
+    {
+      "name": "Fruity Stereo Enhancer",
+      "internal": "Fruity Stereo Enhancer",
+      "format": "FL",
+      "where": "mixer"
+    }
+  ],
+  "samples": [
+    {
+      "name": "BDRM07.WAV",
+      "flps": [
+        "Чёрным Вальсом.flp"
+      ],
+      "embedded": false
+    },
+    {
+      "name": "SNARE01.WAV",
+      "flps": [
+        "Чёрным Вальсом.flp"
+      ],
+      "embedded": false
+    },
+    {
+      "name": "CABASA03.WAV",
+      "flps": [
+        "Чёрным Вальсом.flp"
+      ],
+      "embedded": false
+    },
+    {
+      "name": "guitar3.wav",
+      "flps": [
+        "Чёрным Вальсом.flp"
+      ],
+      "embedded": false
+    },
+    {
+      "name": "guitar3 - Part_2.wav",
+      "flps": [
+        "Чёрным Вальсом.flp"
+      ],
+      "embedded": false
+    },
+    {
+      "name": "guitar1.wav",
+      "flps": [
+        "Чёрным Вальсом.flp"
+      ],
+      "embedded": false
+    },
+    {
+      "name": "guitar1 - Part_7.wav",
+      "flps": [
+        "Чёрным Вальсом.flp"
+      ],
+      "embedded": false
+    },
+    {
+      "name": "guitar1 - Part_6.wav",
+      "flps": [
+        "Чёрным Вальсом.flp"
+      ],
+      "embedded": false
+    },
+    {
+      "name": "guitar1 - Part_5.wav",
+      "flps": [
+        "Чёрным Вальсом.flp"
+      ],
+      "embedded": false
+    },
+    {
+      "name": "guitar1 - Part_4.wav",
+      "flps": [
+        "Чёрным Вальсом.flp"
+      ],
+      "embedded": false
+    },
+    {
+      "name": "guitar1 - Part_3.wav",
+      "flps": [
+        "Чёрным Вальсом.flp"
+      ],
+      "embedded": false
+    },
+    {
+      "name": "guitar1 - Part_2.wav",
+      "flps": [
+        "Чёрным Вальсом.flp"
+      ],
+      "embedded": false
+    },
+    {
+      "name": "guitar1 - Part_1.wav",
+      "flps": [
+        "Чёрным Вальсом.flp"
+      ],
+      "embedded": false
+    },
+    {
+      "name": "guitar4.wav",
+      "flps": [
+        "Чёрным Вальсом.flp"
+      ],
+      "embedded": false
+    },
+    {
+      "name": "guitar4 - Part_1.wav",
+      "flps": [
+        "Чёрным Вальсом.flp"
+      ],
+      "embedded": false
+    },
+    {
+      "name": "guitar2.wav",
+      "flps": [
+        "Чёрным Вальсом.flp"
+      ],
+      "embedded": false
+    },
+    {
+      "name": "guitar2 - Part_2.wav",
+      "flps": [
+        "Чёрным Вальсом.flp"
+      ],
+      "embedded": false
+    },
+    {
+      "name": "guitar2 - Part_1.wav",
+      "flps": [
+        "Чёрным Вальсом.flp"
+      ],
+      "embedded": false
+    },
+    {
+      "name": "voice2.wav",
+      "flps": [
+        "Чёрным Вальсом.flp"
+      ],
+      "embedded": false
+    },
+    {
+      "name": "voice2 - Part_2.wav",
+      "flps": [
+        "Чёрным Вальсом.flp"
+      ],
+      "embedded": false
+    },
+    {
+      "name": "voice2 - Part_1.wav",
+      "flps": [
+        "Чёрным Вальсом.flp"
+      ],
+      "embedded": false
+    },
+    {
+      "name": "voice1.wav",
+      "flps": [
+        "Чёрным Вальсом.flp"
+      ],
+      "embedded": false
+    },
+    {
+      "name": "voice1 - Part_4.wav",
+      "flps": [
+        "Чёрным Вальсом.flp"
+      ],
+      "embedded": false
+    },
+    {
+      "name": "voice1 - Part_6.wav",
+      "flps": [
+        "Чёрным Вальсом.flp"
+      ],
+      "embedded": false
+    },
+    {
+      "name": "voice1 - Part_5.wav",
+      "flps": [
+        "Чёрным Вальсом.flp"
+      ],
+      "embedded": false
+    },
+    {
+      "name": "voice1 - Part_3.wav",
+      "flps": [
+        "Чёрным Вальсом.flp"
+      ],
+      "embedded": false
+    },
+    {
+      "name": "voice1 - Part_2.wav",
+      "flps": [
+        "Чёрным Вальсом.flp"
+      ],
+      "embedded": false
+    },
+    {
+      "name": "voice1 - Part_1.wav",
+      "flps": [
+        "Чёрным Вальсом.flp"
+      ],
+      "embedded": false
+    },
+    {
+      "name": "tamb.wav",
+      "flps": [
+        "Чёрным Вальсом.flp"
+      ],
+      "embedded": false
+    },
+    {
+      "name": "sdl.wav",
+      "flps": [
+        "Чёрным Вальсом.flp"
+      ],
+      "embedded": false
+    },
+    {
+      "name": "crash.wav",
+      "flps": [
+        "Чёрным Вальсом.flp"
+      ],
+      "embedded": false
+    },
+    {
+      "name": "TR808MA0.WAV",
+      "flps": [
+        "Чёрным Вальсом.flp"
+      ],
+      "embedded": false
+    },
+    {
+      "name": "808hh08.aif",
+      "flps": [
+        "Чёрным Вальсом.flp"
+      ],
+      "embedded": false
+    },
+    {
+      "name": "808cym02.aif",
+      "flps": [
+        "Чёрным Вальсом.flp"
+      ],
+      "embedded": false
+    },
+    {
+      "name": "727cngad.wav",
+      "flps": [
+        "Чёрным Вальсом.flp"
+      ],
+      "embedded": false
+    },
+    {
+      "name": "727cngah.wav",
+      "flps": [
+        "Чёрным Вальсом.flp"
+      ],
+      "embedded": false
+    },
+    {
+      "name": "707_HHC.WAV",
+      "flps": [
+        "Чёрным Вальсом.flp"
+      ],
+      "embedded": false
+    },
+    {
+      "name": "707_HHO.WAV",
+      "flps": [
+        "Чёрным Вальсом.flp"
+      ],
+      "embedded": false
+    },
+    {
+      "name": "[MS] Retro 80's Crash 3 - Rumble.wav",
+      "flps": [
+        "Чёрным Вальсом.flp"
+      ],
+      "embedded": false
+    },
+    {
+      "name": "congahh.wav",
+      "flps": [
+        "Чёрным Вальсом.flp"
+      ],
+      "embedded": false
+    },
+    {
+      "name": "congal.wav",
+      "flps": [
+        "Чёрным Вальсом.flp"
+      ],
+      "embedded": false
+    },
+    {
+      "name": "Черным Вальсом (TRD rendr vrsn) 2.mp3",
+      "flps": [
+        "Чёрным Вальсом.flp"
+      ],
+      "embedded": false
+    },
+    {
+      "name": "laser-like-percussion-synthetic-transients-short-glitchy.wav",
+      "flps": [
+        "Чёрным Вальсом.flp"
+      ],
+      "embedded": false
+    },
+    {
+      "name": "laser-like-percussion-synthetic-transients-granular-laser.wav",
+      "flps": [
+        "Чёрным Вальсом.flp"
+      ],
+      "embedded": false
+    },
+    {
+      "name": "sstl.wav",
+      "flps": [
+        "Чёрным Вальсом.flp"
+      ],
+      "embedded": false
+    },
+    {
+      "name": "дорожка 1 (1).wav",
+      "flps": [
+        "Чёрным Вальсом.flp"
+      ],
+      "embedded": false
+    },
+    {
+      "name": "дорожка 1 (1) - Part_2.wav",
+      "flps": [
+        "Чёрным Вальсом.flp"
+      ],
+      "embedded": false
+    },
+    {
+      "name": "дорожка 1 (1) - Part_3.wav",
+      "flps": [
+        "Чёрным Вальсом.flp"
+      ],
+      "embedded": false
+    },
+    {
+      "name": "дорожка 1 (1) - Part_1.wav",
+      "flps": [
+        "Чёрным Вальсом.flp"
+      ],
+      "embedded": false
+    },
+    {
+      "name": "дорожка 3 (1).wav",
+      "flps": [
+        "Чёрным Вальсом.flp"
+      ],
+      "embedded": false
+    },
+    {
+      "name": "дорожка 2 (1).wav",
+      "flps": [
+        "Чёрным Вальсом.flp"
+      ],
+      "embedded": false
+    },
+    {
+      "name": "дорожка 2 (1) - Part_1.wav",
+      "flps": [
+        "Чёрным Вальсом.flp"
+      ],
+      "embedded": false
+    },
+    {
+      "name": "эксперимент.wav",
+      "flps": [
+        "Чёрным Вальсом.flp"
+      ],
+      "embedded": false
+    },
+    {
+      "name": "guitar1 (consolidated).wav",
+      "flps": [
+        "Чёрным Вальсом.flp"
+      ],
+      "embedded": false
+    },
+    {
+      "name": "реверс вокал.wav",
+      "flps": [
+        "Чёрным Вальсом.flp"
+      ],
+      "embedded": false
+    },
+    {
+      "name": "реверс вокал (consolidated).wav",
+      "flps": [
+        "Чёрным Вальсом.flp"
+      ],
+      "embedded": false
+    },
+    {
+      "name": "реверс драмки 3 куплет.wav",
+      "flps": [
+        "Чёрным Вальсом.flp"
+      ],
+      "embedded": false
+    },
+    {
+      "name": "реверс мелодия второго бриджа.wav",
+      "flps": [
+        "Чёрным Вальсом.flp"
+      ],
+      "embedded": false
+    },
+    {
+      "name": "AudiotermSingleWave1.WAV",
+      "flps": [
+        "Чёрным Вальсом.flp"
+      ],
+      "embedded": true
+    },
+    {
+      "name": "02. Fly On The Windscreen - Final - Part_1.wav",
+      "flps": [
+        "Чёрным Вальсом.flp"
+      ],
+      "embedded": true
+    },
+    {
+      "name": "E-Piano C4.wav",
+      "flps": [
+        "Чёрным Вальсом.flp"
+      ],
+      "embedded": true
+    },
+    {
+      "name": "White Noise (Wide).wav",
+      "flps": [
+        "Чёрным Вальсом.flp"
+      ],
+      "embedded": true
+    },
+    {
+      "name": "Analog Noise.wav",
+      "flps": [
+        "Чёрным Вальсом.flp"
+      ],
+      "embedded": true
+    }
+  ]
+}
