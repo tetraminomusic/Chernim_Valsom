@@ -197,20 +197,6 @@
       "embedded": false
     },
     {
-      "name": "guitar3.wav",
-      "flps": [
-        "Чёрным Вальсом.flp"
-      ],
-      "embedded": false
-    },
-    {
-      "name": "guitar3 - Part_2.wav",
-      "flps": [
-        "Чёрным Вальсом.flp"
-      ],
-      "embedded": false
-    },
-    {
       "name": "guitar1.wav",
       "flps": [
         "Чёрным Вальсом.flp"
@@ -226,20 +212,6 @@
     },
     {
       "name": "guitar1 - Part_6.wav",
-      "flps": [
-        "Чёрным Вальсом.flp"
-      ],
-      "embedded": false
-    },
-    {
-      "name": "guitar1 - Part_5.wav",
-      "flps": [
-        "Чёрным Вальсом.flp"
-      ],
-      "embedded": false
-    },
-    {
-      "name": "guitar1 - Part_4.wav",
       "flps": [
         "Чёрным Вальсом.flp"
       ],
@@ -267,35 +239,7 @@
       "embedded": false
     },
     {
-      "name": "guitar4.wav",
-      "flps": [
-        "Чёрным Вальсом.flp"
-      ],
-      "embedded": false
-    },
-    {
-      "name": "guitar4 - Part_1.wav",
-      "flps": [
-        "Чёрным Вальсом.flp"
-      ],
-      "embedded": false
-    },
-    {
-      "name": "guitar2.wav",
-      "flps": [
-        "Чёрным Вальсом.flp"
-      ],
-      "embedded": false
-    },
-    {
       "name": "guitar2 - Part_2.wav",
-      "flps": [
-        "Чёрным Вальсом.flp"
-      ],
-      "embedded": false
-    },
-    {
-      "name": "guitar2 - Part_1.wav",
       "flps": [
         "Чёрным Вальсом.flp"
       ],
@@ -330,35 +274,7 @@
       "embedded": false
     },
     {
-      "name": "voice1 - Part_4.wav",
-      "flps": [
-        "Чёрным Вальсом.flp"
-      ],
-      "embedded": false
-    },
-    {
       "name": "voice1 - Part_6.wav",
-      "flps": [
-        "Чёрным Вальсом.flp"
-      ],
-      "embedded": false
-    },
-    {
-      "name": "voice1 - Part_5.wav",
-      "flps": [
-        "Чёрным Вальсом.flp"
-      ],
-      "embedded": false
-    },
-    {
-      "name": "voice1 - Part_3.wav",
-      "flps": [
-        "Чёрным Вальсом.flp"
-      ],
-      "embedded": false
-    },
-    {
-      "name": "voice1 - Part_2.wav",
       "flps": [
         "Чёрным Вальсом.flp"
       ],
@@ -380,13 +296,6 @@
     },
     {
       "name": "sdl.wav",
-      "flps": [
-        "Чёрным Вальсом.flp"
-      ],
-      "embedded": false
-    },
-    {
-      "name": "crash.wav",
       "flps": [
         "Чёрным Вальсом.flp"
       ],
@@ -457,13 +366,6 @@
     },
     {
       "name": "congal.wav",
-      "flps": [
-        "Чёрным Вальсом.flp"
-      ],
-      "embedded": false
-    },
-    {
-      "name": "Черным Вальсом (TRD rendr vrsn) 2.mp3",
       "flps": [
         "Чёрным Вальсом.flp"
       ],
@@ -554,13 +456,6 @@
       "embedded": false
     },
     {
-      "name": "реверс вокал.wav",
-      "flps": [
-        "Чёрным Вальсом.flp"
-      ],
-      "embedded": false
-    },
-    {
       "name": "реверс вокал (consolidated).wav",
       "flps": [
         "Чёрным Вальсом.flp"
@@ -569,13 +464,6 @@
     },
     {
       "name": "реверс драмки 3 куплет.wav",
-      "flps": [
-        "Чёрным Вальсом.flp"
-      ],
-      "embedded": false
-    },
-    {
-      "name": "реверс мелодия второго бриджа.wav",
       "flps": [
         "Чёрным Вальсом.flp"
       ],
