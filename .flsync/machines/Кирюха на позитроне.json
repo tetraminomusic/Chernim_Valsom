@@ -1,8 +1,9 @@
 {
   "user": "Кирюха на позитроне",
+  "userId": "0a90cd0fe3c3d9d1",
   "os": "Windows",
   "flVersion": "21.2.3.4004",
-  "updated": "2026-10-26 14:18",
+  "updated": "2026-11-01 00:35",
   "plugins": [
     {
       "name": "3x Osc",
@@ -202,12 +203,12 @@
     },
     {
       "name": "FabFilter Pro-Q 4",
-      "format": "VST3",
+      "format": "VST2",
       "version": "4.0.1.6"
     },
     {
       "name": "FabFilter Pro-Q 4",
-      "format": "VST2",
+      "format": "VST3",
       "version": "4.0.1.6"
     },
     {
@@ -601,11 +602,11 @@
     },
     {
       "name": "Lukyan Synth",
-      "format": "VST3"
+      "format": "CLAP"
     },
     {
       "name": "Lukyan Synth",
-      "format": "CLAP"
+      "format": "VST3"
     },
     {
       "name": "Luxeverb",
@@ -907,7 +908,7 @@
     {
       "name": "ShaperBox 3",
       "format": "VST3",
-      "version": "3.5.1.0"
+      "version": "3.6.2.0"
     },
     {
       "name": "Simplon",

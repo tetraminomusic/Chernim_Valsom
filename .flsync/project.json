@@ -59,6 +59,13 @@
       "where": "mixer"
     },
     {
+      "name": "Guitar Rig 7",
+      "internal": "Fruity Wrapper",
+      "vendor": "Native Instruments",
+      "format": "VST3",
+      "where": "mixer"
+    },
+    {
       "name": "Jup-8 V4",
       "internal": "Fruity Wrapper",
       "vendor": "Arturia",
@@ -470,6 +477,48 @@
       "embedded": false
     },
     {
+      "name": "Chernim Valsom_2026-10-11 21-41-35_соло запись .wav",
+      "flps": [
+        "Чёрным Вальсом.flp"
+      ],
+      "embedded": false
+    },
+    {
+      "name": "Chernim Valsom_2026-10-12 10-22-41_соло запись .wav",
+      "flps": [
+        "Чёрным Вальсом.flp"
+      ],
+      "embedded": false
+    },
+    {
+      "name": "Chernim Valsom_2026-10-12 11-42-37_соло запись .wav",
+      "flps": [
+        "Чёрным Вальсом.flp"
+      ],
+      "embedded": false
+    },
+    {
+      "name": "Chernim Valsom_2026-10-12 11-44-50_соло запись .wav",
+      "flps": [
+        "Чёрным Вальсом.flp"
+      ],
+      "embedded": false
+    },
+    {
+      "name": "Chernim Valsom_2026-10-12 11-48-11_соло запись .wav",
+      "flps": [
+        "Чёрным Вальсом.flp"
+      ],
+      "embedded": false
+    },
+    {
+      "name": "Chernim Valsom_2026-10-11 21-02-28_вокал.wav",
+      "flps": [
+        "Чёрным Вальсом.flp"
+      ],
+      "embedded": false
+    },
+    {
       "name": "AudiotermSingleWave1.WAV",
       "flps": [
         "Чёрным Вальсом.flp"
@@ -499,6 +548,20 @@
     },
     {
       "name": "Analog Noise.wav",
+      "flps": [
+        "Чёрным Вальсом.flp"
+      ],
+      "embedded": true
+    },
+    {
+      "name": "lowclave.wav",
+      "flps": [
+        "Чёрным Вальсом.flp"
+      ],
+      "embedded": true
+    },
+    {
+      "name": "hiclave.wav",
       "flps": [
         "Чёрным Вальсом.flp"
       ],
