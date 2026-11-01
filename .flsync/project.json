@@ -157,12 +157,6 @@
       "where": "mixer"
     },
     {
-      "name": "Fruity Wrapper",
-      "internal": "Fruity Wrapper",
-      "format": "VST",
-      "where": "mixer"
-    },
-    {
       "name": "Fruity Flanger",
       "internal": "Fruity Flanger",
       "format": "FL",
@@ -191,7 +185,6 @@
     {
       "name": "BDRM07.WAV",
       "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp",
         "Чёрным Вальсом.flp"
       ],
       "embedded": false
@@ -199,7 +192,6 @@
     {
       "name": "SNARE01.WAV",
       "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp",
         "Чёрным Вальсом.flp"
       ],
       "embedded": false
@@ -207,29 +199,13 @@
     {
       "name": "CABASA03.WAV",
       "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp",
         "Чёрным Вальсом.flp"
-      ],
-      "embedded": false
-    },
-    {
-      "name": "guitar3.wav",
-      "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp"
-      ],
-      "embedded": false
-    },
-    {
-      "name": "guitar3 - Part_2.wav",
-      "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp"
       ],
       "embedded": false
     },
     {
       "name": "guitar1.wav",
       "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp",
         "Чёрным Вальсом.flp"
       ],
       "embedded": false
@@ -237,7 +213,6 @@
     {
       "name": "guitar1 - Part_7.wav",
       "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp",
         "Чёрным Вальсом.flp"
       ],
       "embedded": false
@@ -245,29 +220,13 @@
     {
       "name": "guitar1 - Part_6.wav",
       "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp",
         "Чёрным Вальсом.flp"
-      ],
-      "embedded": false
-    },
-    {
-      "name": "guitar1 - Part_5.wav",
-      "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp"
-      ],
-      "embedded": false
-    },
-    {
-      "name": "guitar1 - Part_4.wav",
-      "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp"
       ],
       "embedded": false
     },
     {
       "name": "guitar1 - Part_3.wav",
       "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp",
         "Чёрным Вальсом.flp"
       ],
       "embedded": false
@@ -275,7 +234,6 @@
     {
       "name": "guitar1 - Part_2.wav",
       "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp",
         "Чёрным Вальсом.flp"
       ],
       "embedded": false
@@ -283,51 +241,20 @@
     {
       "name": "guitar1 - Part_1.wav",
       "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp",
         "Чёрным Вальсом.flp"
-      ],
-      "embedded": false
-    },
-    {
-      "name": "guitar4.wav",
-      "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp"
-      ],
-      "embedded": false
-    },
-    {
-      "name": "guitar4 - Part_1.wav",
-      "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp"
-      ],
-      "embedded": false
-    },
-    {
-      "name": "guitar2.wav",
-      "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp"
       ],
       "embedded": false
     },
     {
       "name": "guitar2 - Part_2.wav",
       "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp",
         "Чёрным Вальсом.flp"
-      ],
-      "embedded": false
-    },
-    {
-      "name": "guitar2 - Part_1.wav",
-      "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp"
       ],
       "embedded": false
     },
     {
       "name": "voice2.wav",
       "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp",
         "Чёрным Вальсом.flp"
       ],
       "embedded": false
@@ -335,7 +262,6 @@
     {
       "name": "voice2 - Part_2.wav",
       "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp",
         "Чёрным Вальсом.flp"
       ],
       "embedded": false
@@ -343,7 +269,6 @@
     {
       "name": "voice2 - Part_1.wav",
       "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp",
         "Чёрным Вальсом.flp"
       ],
       "embedded": false
@@ -351,51 +276,20 @@
     {
       "name": "voice1.wav",
       "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp",
         "Чёрным Вальсом.flp"
-      ],
-      "embedded": false
-    },
-    {
-      "name": "voice1 - Part_4.wav",
-      "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp"
       ],
       "embedded": false
     },
     {
       "name": "voice1 - Part_6.wav",
       "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp",
         "Чёрным Вальсом.flp"
-      ],
-      "embedded": false
-    },
-    {
-      "name": "voice1 - Part_5.wav",
-      "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp"
-      ],
-      "embedded": false
-    },
-    {
-      "name": "voice1 - Part_3.wav",
-      "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp"
-      ],
-      "embedded": false
-    },
-    {
-      "name": "voice1 - Part_2.wav",
-      "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp"
       ],
       "embedded": false
     },
     {
       "name": "voice1 - Part_1.wav",
       "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp",
         "Чёрным Вальсом.flp"
       ],
       "embedded": false
@@ -403,7 +297,6 @@
     {
       "name": "tamb.wav",
       "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp",
         "Чёрным Вальсом.flp"
       ],
       "embedded": false
@@ -411,22 +304,13 @@
     {
       "name": "sdl.wav",
       "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp",
         "Чёрным Вальсом.flp"
-      ],
-      "embedded": false
-    },
-    {
-      "name": "crash.wav",
-      "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp"
       ],
       "embedded": false
     },
     {
       "name": "TR808MA0.WAV",
       "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp",
         "Чёрным Вальсом.flp"
       ],
       "embedded": false
@@ -434,7 +318,6 @@
     {
       "name": "808hh08.aif",
       "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp",
         "Чёрным Вальсом.flp"
       ],
       "embedded": false
@@ -442,7 +325,6 @@
     {
       "name": "808cym02.aif",
       "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp",
         "Чёрным Вальсом.flp"
       ],
       "embedded": false
@@ -450,7 +332,6 @@
     {
       "name": "727cngad.wav",
       "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp",
         "Чёрным Вальсом.flp"
       ],
       "embedded": false
@@ -458,7 +339,6 @@
     {
       "name": "727cngah.wav",
       "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp",
         "Чёрным Вальсом.flp"
       ],
       "embedded": false
@@ -466,7 +346,6 @@
     {
       "name": "707_HHC.WAV",
       "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp",
         "Чёрным Вальсом.flp"
       ],
       "embedded": false
@@ -474,7 +353,6 @@
     {
       "name": "707_HHO.WAV",
       "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp",
         "Чёрным Вальсом.flp"
       ],
       "embedded": false
@@ -482,7 +360,6 @@
     {
       "name": "[MS] Retro 80's Crash 3 - Rumble.wav",
       "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp",
         "Чёрным Вальсом.flp"
       ],
       "embedded": false
@@ -490,7 +367,6 @@
     {
       "name": "congahh.wav",
       "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp",
         "Чёрным Вальсом.flp"
       ],
       "embedded": false
@@ -498,22 +374,13 @@
     {
       "name": "congal.wav",
       "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp",
         "Чёрным Вальсом.flp"
-      ],
-      "embedded": false
-    },
-    {
-      "name": "Черным Вальсом (TRD rendr vrsn) 2.mp3",
-      "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp"
       ],
       "embedded": false
     },
     {
       "name": "laser-like-percussion-synthetic-transients-short-glitchy.wav",
       "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp",
         "Чёрным Вальсом.flp"
       ],
       "embedded": false
@@ -521,7 +388,6 @@
     {
       "name": "laser-like-percussion-synthetic-transients-granular-laser.wav",
       "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp",
         "Чёрным Вальсом.flp"
       ],
       "embedded": false
@@ -529,7 +395,6 @@
     {
       "name": "sstl.wav",
       "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp",
         "Чёрным Вальсом.flp"
       ],
       "embedded": false
@@ -537,7 +402,6 @@
     {
       "name": "дорожка 1 (1).wav",
       "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp",
         "Чёрным Вальсом.flp"
       ],
       "embedded": false
@@ -545,7 +409,6 @@
     {
       "name": "дорожка 1 (1) - Part_2.wav",
       "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp",
         "Чёрным Вальсом.flp"
       ],
       "embedded": false
@@ -553,7 +416,6 @@
     {
       "name": "дорожка 1 (1) - Part_3.wav",
       "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp",
         "Чёрным Вальсом.flp"
       ],
       "embedded": false
@@ -561,7 +423,6 @@
     {
       "name": "дорожка 1 (1) - Part_1.wav",
       "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp",
         "Чёрным Вальсом.flp"
       ],
       "embedded": false
@@ -569,7 +430,6 @@
     {
       "name": "дорожка 3 (1).wav",
       "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp",
         "Чёрным Вальсом.flp"
       ],
       "embedded": false
@@ -577,7 +437,6 @@
     {
       "name": "дорожка 2 (1).wav",
       "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp",
         "Чёрным Вальсом.flp"
       ],
       "embedded": false
@@ -585,7 +444,6 @@
     {
       "name": "дорожка 2 (1) - Part_1.wav",
       "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp",
         "Чёрным Вальсом.flp"
       ],
       "embedded": false
@@ -593,7 +451,6 @@
     {
       "name": "эксперимент.wav",
       "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp",
         "Чёрным Вальсом.flp"
       ],
       "embedded": false
@@ -601,22 +458,13 @@
     {
       "name": "guitar1 (consolidated).wav",
       "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp",
         "Чёрным Вальсом.flp"
-      ],
-      "embedded": false
-    },
-    {
-      "name": "реверс вокал.wav",
-      "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp"
       ],
       "embedded": false
     },
     {
       "name": "реверс вокал (consolidated).wav",
       "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp",
         "Чёрным Вальсом.flp"
       ],
       "embedded": false
@@ -624,253 +472,55 @@
     {
       "name": "реверс драмки 3 куплет.wav",
       "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp",
         "Чёрным Вальсом.flp"
-      ],
-      "embedded": false
-    },
-    {
-      "name": "реверс мелодия второго бриджа.wav",
-      "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp"
-      ],
-      "embedded": false
-    },
-    {
-      "name": "Chernim Valsom_2026-10-11 20-58-24_вокал.wav",
-      "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp"
-      ],
-      "embedded": false
-    },
-    {
-      "name": "Chernim Valsom_2026-10-11 20-59-02_вокал.wav",
-      "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp"
-      ],
-      "embedded": false
-    },
-    {
-      "name": "Chernim Valsom_2026-10-11 21-02-28_вокал.wav",
-      "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp"
-      ],
-      "embedded": false
-    },
-    {
-      "name": "Chernim Valsom_2026-10-11 21-41-12_соло запись .wav",
-      "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp"
-      ],
-      "embedded": false
-    },
-    {
-      "name": "Chernim Valsom_2026-10-11 21-41-23_соло запись .wav",
-      "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp"
       ],
       "embedded": false
     },
     {
       "name": "Chernim Valsom_2026-10-11 21-41-35_соло запись .wav",
       "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp"
-      ],
-      "embedded": false
-    },
-    {
-      "name": "Chernim Valsom_2026-10-11 21-46-19_соло запись .wav",
-      "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp"
-      ],
-      "embedded": false
-    },
-    {
-      "name": "Chernim Valsom_2026-10-11 21-52-17_соло запись .wav",
-      "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp"
-      ],
-      "embedded": false
-    },
-    {
-      "name": "Chernim Valsom_2026-10-11 21-56-46_соло запись .wav",
-      "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp"
-      ],
-      "embedded": false
-    },
-    {
-      "name": "Chernim Valsom_2026-10-11 22-05-10_соло запись .wav",
-      "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp"
-      ],
-      "embedded": false
-    },
-    {
-      "name": "Chernim Valsom_2026-10-11 22-07-05_соло запись .wav",
-      "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp"
-      ],
-      "embedded": false
-    },
-    {
-      "name": "Chernim Valsom_2026-10-11 22-07-22_соло запись .wav",
-      "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp"
-      ],
-      "embedded": false
-    },
-    {
-      "name": "Chernim Valsom_2026-10-11 22-08-16_соло запись .wav",
-      "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp"
-      ],
-      "embedded": false
-    },
-    {
-      "name": "Chernim Valsom_2026-10-11 22-08-37_соло запись .wav",
-      "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp"
-      ],
-      "embedded": false
-    },
-    {
-      "name": "Chernim Valsom_2026-10-11 22-09-21_соло запись .wav",
-      "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp"
+        "Чёрным Вальсом.flp"
       ],
       "embedded": false
     },
     {
       "name": "Chernim Valsom_2026-10-12 10-22-41_соло запись .wav",
       "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp"
-      ],
-      "embedded": false
-    },
-    {
-      "name": "Chernim Valsom_2026-10-12 10-27-02_соло запись .wav",
-      "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp"
-      ],
-      "embedded": false
-    },
-    {
-      "name": "Chernim Valsom_2026-10-12 10-49-42_соло запись .wav",
-      "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp"
-      ],
-      "embedded": false
-    },
-    {
-      "name": "Chernim Valsom_2026-10-12 10-49-51_соло запись .wav",
-      "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp"
-      ],
-      "embedded": false
-    },
-    {
-      "name": "Chernim Valsom_2026-10-12 10-50-34_соло запись .wav",
-      "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp"
-      ],
-      "embedded": false
-    },
-    {
-      "name": "Chernim Valsom_2026-10-12 11-40-53_соло запись .wav",
-      "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp"
-      ],
-      "embedded": false
-    },
-    {
-      "name": "Chernim Valsom_2026-10-12 11-41-01_соло запись .wav",
-      "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp"
-      ],
-      "embedded": false
-    },
-    {
-      "name": "Chernim Valsom_2026-10-12 11-41-09_соло запись .wav",
-      "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp"
+        "Чёрным Вальсом.flp"
       ],
       "embedded": false
     },
     {
       "name": "Chernim Valsom_2026-10-12 11-42-37_соло запись .wav",
       "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp"
-      ],
-      "embedded": false
-    },
-    {
-      "name": "Chernim Valsom_2026-10-12 11-43-43_соло запись .wav",
-      "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp"
-      ],
-      "embedded": false
-    },
-    {
-      "name": "Chernim Valsom_2026-10-12 11-43-52_соло запись .wav",
-      "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp"
-      ],
-      "embedded": false
-    },
-    {
-      "name": "Chernim Valsom_2026-10-12 11-44-02_соло запись .wav",
-      "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp"
-      ],
-      "embedded": false
-    },
-    {
-      "name": "Chernim Valsom_2026-10-12 11-44-11_соло запись .wav",
-      "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp"
+        "Чёрным Вальсом.flp"
       ],
       "embedded": false
     },
     {
       "name": "Chernim Valsom_2026-10-12 11-44-50_соло запись .wav",
       "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp"
-      ],
-      "embedded": false
-    },
-    {
-      "name": "Chernim Valsom_2026-10-12 11-46-42_соло запись .wav",
-      "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp"
-      ],
-      "embedded": false
-    },
-    {
-      "name": "Chernim Valsom_2026-10-12 11-46-53_соло запись .wav",
-      "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp"
-      ],
-      "embedded": false
-    },
-    {
-      "name": "Chernim Valsom_2026-10-12 11-47-01_соло запись .wav",
-      "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp"
+        "Чёрным Вальсом.flp"
       ],
       "embedded": false
     },
     {
       "name": "Chernim Valsom_2026-10-12 11-48-11_соло запись .wav",
       "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp"
+        "Чёрным Вальсом.flp"
+      ],
+      "embedded": false
+    },
+    {
+      "name": "Chernim Valsom_2026-10-11 21-02-28_вокал.wav",
+      "flps": [
+        "Чёрным Вальсом.flp"
       ],
       "embedded": false
     },
     {
       "name": "AudiotermSingleWave1.WAV",
       "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp",
         "Чёрным Вальсом.flp"
       ],
       "embedded": true
@@ -878,7 +528,6 @@
     {
       "name": "02. Fly On The Windscreen - Final - Part_1.wav",
       "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp",
         "Чёрным Вальсом.flp"
       ],
       "embedded": true
@@ -886,7 +535,6 @@
     {
       "name": "E-Piano C4.wav",
       "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp",
         "Чёрным Вальсом.flp"
       ],
       "embedded": true
@@ -894,7 +542,6 @@
     {
       "name": "White Noise (Wide).wav",
       "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp",
         "Чёрным Вальсом.flp"
       ],
       "embedded": true
@@ -902,7 +549,6 @@
     {
       "name": "Analog Noise.wav",
       "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp",
         "Чёрным Вальсом.flp"
       ],
       "embedded": true
@@ -910,14 +556,14 @@
     {
       "name": "lowclave.wav",
       "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp"
+        "Чёрным Вальсом.flp"
       ],
       "embedded": true
     },
     {
       "name": "hiclave.wav",
       "flps": [
-        "Chernim_Valsom/Чёрным Вальсом.flp"
+        "Чёрным Вальсом.flp"
       ],
       "embedded": true
     }
