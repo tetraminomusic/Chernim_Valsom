@@ -5,7 +5,7 @@
       "userId": "0a90cd0fe3c3d9d1",
       "os": "Windows",
       "flVersion": "21.2.3.4004",
-      "updated": "2026-11-01 00:35",
+      "updated": "2026-11-01 22:52",
       "plugins": [
         {
           "name": "3x Osc",
@@ -205,17 +205,17 @@
         },
         {
           "name": "FabFilter Pro-Q 4",
+          "format": "CLAP",
+          "version": "4.0.1.6"
+        },
+        {
+          "name": "FabFilter Pro-Q 4",
           "format": "VST2",
           "version": "4.0.1.6"
         },
         {
           "name": "FabFilter Pro-Q 4",
           "format": "VST3",
-          "version": "4.0.1.6"
-        },
-        {
-          "name": "FabFilter Pro-Q 4",
-          "format": "CLAP",
           "version": "4.0.1.6"
         },
         {
@@ -604,11 +604,11 @@
         },
         {
           "name": "Lukyan Synth",
-          "format": "CLAP"
+          "format": "VST3"
         },
         {
           "name": "Lukyan Synth",
-          "format": "VST3"
+          "format": "CLAP"
         },
         {
           "name": "Luxeverb",
@@ -653,12 +653,12 @@
         },
         {
           "name": "MODO BASS",
-          "format": "VST2",
+          "format": "VST3",
           "version": "1.5.2.0"
         },
         {
           "name": "MODO BASS",
-          "format": "VST3",
+          "format": "VST2",
           "version": "1.5.2.0"
         },
         {
@@ -785,7 +785,7 @@
           "version": "11.0.1.3067"
         },
         {
-          "name": "PanCake2-64bit",
+          "name": "PanCake2",
           "format": "VST2",
           "version": "2.3.1.0"
         },
@@ -2828,15 +2828,15 @@
     "title": "Чёрным Вальсом",
     "artist": "танец узбека",
     "flpTempo": "78",
-    "flpLength": "4:11",
-    "flpLengthBy": "selection"
+    "flpLength": "9:30",
+    "flpLengthBy": "playlist"
   },
   "size": {
-    "total": 2209235123,
-    "git": 865070271,
-    "audio": 1012961869,
-    "files": 449,
-    "at": 1793559848
+    "total": 1227378968,
+    "git": 856126492,
+    "audio": 328502642,
+    "files": 440,
+    "at": 1793562763
   },
-  "updated": 1793559848
+  "updated": 1793562763
 }
