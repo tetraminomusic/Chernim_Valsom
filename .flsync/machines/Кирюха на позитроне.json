@@ -3,7 +3,7 @@
   "userId": "0a90cd0fe3c3d9d1",
   "os": "Windows",
   "flVersion": "21.2.3.4004",
-  "updated": "2026-11-01 00:35",
+  "updated": "2026-11-01 22:15",
   "plugins": [
     {
       "name": "3x Osc",
@@ -208,12 +208,12 @@
     },
     {
       "name": "FabFilter Pro-Q 4",
-      "format": "VST3",
+      "format": "CLAP",
       "version": "4.0.1.6"
     },
     {
       "name": "FabFilter Pro-Q 4",
-      "format": "CLAP",
+      "format": "VST3",
       "version": "4.0.1.6"
     },
     {
@@ -783,7 +783,7 @@
       "version": "11.0.1.3067"
     },
     {
-      "name": "PanCake2-64bit",
+      "name": "PanCake2",
       "format": "VST2",
       "version": "2.3.1.0"
     },
