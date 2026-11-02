@@ -3,7 +3,7 @@
   "userId": "a86a8405c4637fc7",
   "os": "Windows",
   "flVersion": "21.2.3.4004",
-  "updated": "2026-11-02 18:53",
+  "updated": "2026-11-02 20:24",
   "plugins": [
     {
       "name": "3x Osc",
@@ -24,12 +24,12 @@
     },
     {
       "name": "Addictive Drums 2",
-      "format": "VST3",
-      "version": "2.3.0.0"
+      "format": "VST2"
     },
     {
       "name": "Addictive Drums 2",
-      "format": "VST2"
+      "format": "VST3",
+      "version": "2.3.0.0"
     },
     {
       "name": "Addictive Keys",
@@ -37,15 +37,14 @@
     },
     {
       "name": "Analog Lab V",
-      "format": "VST3",
-      "version": "5.11.2.6235"
-    },
-    {
-      "name": "Analog Lab V",
       "format": "VST2",
       "version": "5.11.2.6235"
     },
     {
+      "name": "Analog Lab V",
+      "format": "VST3"
+    },
+    {
       "name": "ARP 2600 V3",
       "format": "VST3"
     },
@@ -79,11 +78,11 @@
     },
     {
       "name": "Augmented VOICES",
-      "format": "VST2"
+      "format": "VST3"
     },
     {
       "name": "Augmented VOICES",
-      "format": "VST3"
+      "format": "VST2"
     },
     {
       "name": "Augmented WOODWINDS",
@@ -95,11 +94,11 @@
     },
     {
       "name": "Augmented YANGTZE",
-      "format": "VST3"
+      "format": "VST2"
     },
     {
       "name": "Augmented YANGTZE",
-      "format": "VST2"
+      "format": "VST3"
     },
     {
       "name": "Auto-Key",
@@ -116,11 +115,11 @@
     },
     {
       "name": "B-3 V2",
-      "format": "VST3"
+      "format": "VST2"
     },
     {
       "name": "B-3 V2",
-      "format": "VST2"
+      "format": "VST3"
     },
     {
       "name": "BassDrum",
@@ -137,11 +136,11 @@
     },
     {
       "name": "BL-Denoiser",
-      "format": "VST2"
+      "format": "VST3"
     },
     {
       "name": "BL-Denoiser",
-      "format": "VST3"
+      "format": "VST2"
     },
     {
       "name": "BooBass",
@@ -149,11 +148,11 @@
     },
     {
       "name": "Buchla Easel V",
-      "format": "VST2"
+      "format": "VST3"
     },
     {
       "name": "Buchla Easel V",
-      "format": "VST3"
+      "format": "VST2"
     },
     {
       "name": "Cassette",
@@ -239,11 +238,11 @@
     },
     {
       "name": "DX7 V",
-      "format": "VST2"
+      "format": "VST3"
     },
     {
       "name": "DX7 V",
-      "format": "VST3"
+      "format": "VST2"
     },
     {
       "name": "Edison",
@@ -268,7 +267,7 @@
     {
       "name": "FabFilter Micro",
       "format": "VST3",
-      "version": "1.2.0.18"
+      "version": "1.2.9.27"
     },
     {
       "name": "FabFilter Micro",
@@ -283,11 +282,6 @@
     {
       "name": "FabFilter One",
       "format": "VST3",
-      "version": "3.3.1.36"
-    },
-    {
-      "name": "FabFilter One",
-      "format": "CLAP",
       "version": "3.4.0.45"
     },
     {
@@ -296,9 +290,14 @@
       "version": "3.3.1.36"
     },
     {
+      "name": "FabFilter One",
+      "format": "CLAP",
+      "version": "3.4.0.45"
+    },
+    {
       "name": "FabFilter Pro-C 2",
       "format": "VST3",
-      "version": "2.0.8.36"
+      "version": "2.2.0.45"
     },
     {
       "name": "FabFilter Pro-C 2",
@@ -312,12 +311,12 @@
     },
     {
       "name": "FabFilter Pro-DS",
-      "format": "VST3",
-      "version": "1.1.2.20"
+      "format": "CLAP",
+      "version": "1.2.4.29"
     },
     {
       "name": "FabFilter Pro-DS",
-      "format": "CLAP",
+      "format": "VST3",
       "version": "1.2.4.29"
     },
     {
@@ -327,12 +326,12 @@
     },
     {
       "name": "FabFilter Pro-G",
-      "format": "VST3",
-      "version": "1.2.2.24"
+      "format": "CLAP",
+      "version": "1.3.4.33"
     },
     {
       "name": "FabFilter Pro-G",
-      "format": "CLAP",
+      "format": "VST3",
       "version": "1.3.4.33"
     },
     {
@@ -342,28 +341,28 @@
     },
     {
       "name": "FabFilter Pro-L 2",
+      "format": "VST2",
+      "version": "2.0.3.31"
+    },
+    {
+      "name": "FabFilter Pro-L 2",
       "format": "CLAP",
       "version": "2.2.4.40"
     },
     {
       "name": "FabFilter Pro-L 2",
       "format": "VST3",
-      "version": "2.0.3.31"
-    },
-    {
-      "name": "FabFilter Pro-L 2",
-      "format": "VST2",
-      "version": "2.0.3.31"
-    },
-    {
-      "name": "FabFilter Pro-MB",
-      "format": "CLAP",
-      "version": "1.3.1.27"
+      "version": "2.2.4.40"
     },
     {
       "name": "FabFilter Pro-MB",
       "format": "VST3",
       "version": "1.1.9.18"
+    },
+    {
+      "name": "FabFilter Pro-MB",
+      "format": "CLAP",
+      "version": "1.3.1.27"
     },
     {
       "name": "FabFilter Pro-MB (Mono)",
@@ -387,12 +386,12 @@
     },
     {
       "name": "FabFilter Pro-Q 4",
-      "format": "VST3",
+      "format": "CLAP",
       "version": "4.0.0.5"
     },
     {
       "name": "FabFilter Pro-Q 4",
-      "format": "CLAP",
+      "format": "VST3",
       "version": "4.0.0.5"
     },
     {
@@ -427,28 +426,28 @@
     },
     {
       "name": "FabFilter Saturn 2",
-      "format": "CLAP",
+      "format": "VST3",
       "version": "2.1.1.13"
     },
     {
       "name": "FabFilter Saturn 2",
-      "format": "VST3",
+      "format": "CLAP",
       "version": "2.1.1.13"
     },
     {
       "name": "FabFilter Simplon",
       "format": "VST3",
-      "version": "1.3.0.25"
-    },
-    {
-      "name": "FabFilter Simplon",
-      "format": "CLAP",
       "version": "1.3.9.34"
     },
     {
       "name": "FabFilter Simplon",
       "format": "VST2",
       "version": "1.3.0.25"
+    },
+    {
+      "name": "FabFilter Simplon",
+      "format": "CLAP",
+      "version": "1.3.9.34"
     },
     {
       "name": "FabFilter Timeless 2",
@@ -487,12 +486,12 @@
     },
     {
       "name": "FabFilter Twin 3",
-      "format": "VST3",
+      "format": "CLAP",
       "version": "3.0.5.64"
     },
     {
       "name": "FabFilter Twin 3",
-      "format": "CLAP",
+      "format": "VST3",
       "version": "3.0.5.64"
     },
     {
@@ -517,21 +516,21 @@
     },
     {
       "name": "FabFilter Volcano 3",
-      "format": "VST3",
-      "version": "3.0.7.58"
-    },
-    {
-      "name": "FabFilter Volcano 3",
       "format": "CLAP",
       "version": "3.0.7.58"
     },
     {
-      "name": "Farfisa V",
-      "format": "VST3"
+      "name": "FabFilter Volcano 3",
+      "format": "VST3",
+      "version": "3.0.7.58"
     },
     {
       "name": "Farfisa V",
       "format": "VST2"
+    },
+    {
+      "name": "Farfisa V",
+      "format": "VST3"
     },
     {
       "name": "FL Keys",
@@ -548,12 +547,12 @@
     {
       "name": "FL Studio VSTi",
       "format": "VST2",
-      "version": "1.2.19.1"
+      "version": "1.2.58.0"
     },
     {
       "name": "FL Studio VSTi (Multi)",
       "format": "VST2",
-      "version": "1.2.19.29"
+      "version": "1.2.57.2"
     },
     {
       "name": "FLEX",
@@ -867,11 +866,11 @@
     },
     {
       "name": "Jup-8 V4",
-      "format": "VST3"
+      "format": "VST2"
     },
     {
       "name": "Jup-8 V4",
-      "format": "VST2"
+      "format": "VST3"
     },
     {
       "name": "JUPITER-4",
@@ -895,11 +894,11 @@
     },
     {
       "name": "KORG MS-20 V",
-      "format": "VST3"
+      "format": "VST2"
     },
     {
       "name": "KORG MS-20 V",
-      "format": "VST2"
+      "format": "VST3"
     },
     {
       "name": "Lukyan Synth (2)",
@@ -911,11 +910,11 @@
     },
     {
       "name": "Matrix-12 V2",
-      "format": "VST3"
+      "format": "VST2"
     },
     {
       "name": "Matrix-12 V2",
-      "format": "VST2"
+      "format": "VST3"
     },
     {
       "name": "Maximus",
@@ -943,11 +942,11 @@
     },
     {
       "name": "MiniBrute V",
-      "format": "VST3"
+      "format": "VST2"
     },
     {
       "name": "MiniBrute V",
-      "format": "VST2"
+      "format": "VST3"
     },
     {
       "name": "MiniFreak V",
@@ -963,21 +962,21 @@
     },
     {
       "name": "MODO BASS",
-      "format": "VST2",
-      "version": "1.5.2.0"
-    },
-    {
-      "name": "MODO BASS",
       "format": "VST3",
       "version": "1.5.2.0"
     },
     {
-      "name": "Modular V3",
-      "format": "VST2"
+      "name": "MODO BASS",
+      "format": "VST2",
+      "version": "1.5.2.0"
     },
     {
       "name": "Modular V3",
       "format": "VST3"
+    },
+    {
+      "name": "Modular V3",
+      "format": "VST2"
     },
     {
       "name": "Morphine",
@@ -1006,11 +1005,11 @@
     },
     {
       "name": "OP-Xa V",
-      "format": "VST3"
+      "format": "VST2"
     },
     {
       "name": "OP-Xa V",
-      "format": "VST2"
+      "format": "VST3"
     },
     {
       "name": "Ozone 11",
@@ -1116,11 +1115,11 @@
     },
     {
       "name": "Pigments",
-      "format": "VST2"
+      "format": "VST3"
     },
     {
       "name": "Pigments",
-      "format": "VST3"
+      "format": "VST2"
     },
     {
       "name": "Pitch Shifter",
@@ -1152,11 +1151,11 @@
     },
     {
       "name": "Prophet-VS V",
-      "format": "VST3"
+      "format": "VST2"
     },
     {
       "name": "Prophet-VS V",
-      "format": "VST2"
+      "format": "VST3"
     },
     {
       "name": "Razer Chroma",
@@ -1181,11 +1180,11 @@
     },
     {
       "name": "SEM V2",
-      "format": "VST2"
+      "format": "VST3"
     },
     {
       "name": "SEM V2",
-      "format": "VST3"
+      "format": "VST2"
     },
     {
       "name": "SH-101",
@@ -1210,11 +1209,11 @@
     },
     {
       "name": "Solina V2",
-      "format": "VST3"
+      "format": "VST2"
     },
     {
       "name": "Solina V2",
-      "format": "VST2"
+      "format": "VST3"
     },
     {
       "name": "soothe2_x64",
@@ -1231,11 +1230,11 @@
     },
     {
       "name": "SQ80 V",
-      "format": "VST3"
+      "format": "VST2"
     },
     {
       "name": "SQ80 V",
-      "format": "VST2"
+      "format": "VST3"
     },
     {
       "name": "SRX BRASS",
@@ -1280,19 +1279,19 @@
     },
     {
       "name": "Stage-73 V2",
-      "format": "VST3"
+      "format": "VST2"
     },
     {
       "name": "Stage-73 V2",
-      "format": "VST2"
-    },
-    {
-      "name": "Synclavier V",
       "format": "VST3"
     },
     {
       "name": "Synclavier V",
       "format": "VST2"
+    },
+    {
+      "name": "Synclavier V",
+      "format": "VST3"
     },
     {
       "name": "Synthi V",
@@ -1495,11 +1494,11 @@
     },
     {
       "name": "Vocoder V",
-      "format": "VST2"
+      "format": "VST3"
     },
     {
       "name": "Vocoder V",
-      "format": "VST3"
+      "format": "VST2"
     },
     {
       "name": "Vocodex",
@@ -1507,11 +1506,11 @@
     },
     {
       "name": "VOX Continental V2",
-      "format": "VST2"
+      "format": "VST3"
     },
     {
       "name": "VOX Continental V2",
-      "format": "VST3"
+      "format": "VST2"
     },
     {
       "name": "Wave Candy",
